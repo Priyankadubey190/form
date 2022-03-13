@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "empname": "Riya",
+      "empage": "22",
+      "empaddress": "Barelly",
+      "empdepart": "Doctor",
+      "empsalary": "70000",
+      "marital": "unmarried",
+      "id": 3
+    },
+    {
+      "empname": "Priyanka",
+      "empage": "25",
+      "empaddress": "Gorakhpur",
+      "empdepart": "Principal",
+      "empsalary": "80000",
+      "marital": "unmarried",
+      "id": 4
+    },
+    {
+      "empname": "Pooja",
+      "empage": "29",
+      "empaddress": "Delhi",
+      "empdepart": "Doctor",
+      "empsalary": "85000",
+      "marital": "married",
+      "id": 5
+    },
+    {
+      "empname": "Kajal",
+      "empage": "21",
+      "empaddress": "Bijnaur",
+      "empdepart": "Teacher",
+      "empsalary": "30000",
+      "marital": "unmarried",
+      "id": 6
+    }
+  ]
+}
